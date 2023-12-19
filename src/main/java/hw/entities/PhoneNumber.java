@@ -1,4 +1,4 @@
-package hw.enties;
+package hw.entities;
 
 import hw.exceptions.PhoneBodyException;
 import hw.exceptions.PhoneCodeException;

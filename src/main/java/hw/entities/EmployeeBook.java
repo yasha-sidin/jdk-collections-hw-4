@@ -1,4 +1,4 @@
-package hw.enties;
+package hw.entities;
 
 import lombok.AccessLevel;
 import lombok.Getter;

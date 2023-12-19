@@ -1,8 +1,8 @@
 package hw;
 
-import hw.enties.Employee;
-import hw.enties.EmployeeBook;
-import hw.enties.PhoneNumber;
+import hw.entities.Employee;
+import hw.entities.EmployeeBook;
+import hw.entities.PhoneNumber;
 import hw.exceptions.PhoneNumberException;
 
 import java.util.*;

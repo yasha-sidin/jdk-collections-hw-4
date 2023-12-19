@@ -1,4 +1,4 @@
-package hw.enties;
+package hw.entities;
 
 import hw.fabrics.IdGenerator;
 import lombok.AccessLevel;
